@@ -1,7 +1,0 @@
----
-layout: "collect"
-title: "我的收藏"
-comments: false
----
-
-> 记录近期的收藏内容
